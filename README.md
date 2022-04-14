@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MaxusJ27
-- 👀 I’m interested in Machine Learning, Mathematics and Physics
-- 🌱 I’m currently learning Transformer...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Machine Learning and Database Engineering
+- 🌱 I’m currently learning Numerical Methods and Compiler Engineering
+- 💞️ I’m looking to collaborate on project involving PySpark or blockchain technology
+- 📫 How to reach me maxusnegeri@gmail.com
 
 <!---
 MaxusJ27/MaxusJ27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
