@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaxusJ27.
+- 👋 Hi, I’m @MaxusJ27[https://www.maxus-jaisi.me/].
 - 👀 I’m interested in anything Full Stack Development, Machine Learning or Generative AI applications.
 - 🌱 I have experience in building web and mobile applications, and cloud technologies such as AWS Services.
 - 💞️ I’m currently working on a Full Stack RAG web-application that mimics ChatPDF, but powered solely by AWS Services.
